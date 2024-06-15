@@ -1,0 +1,11 @@
+import crafttweaker.api.recipe.MirrorAxis;
+
+//Item Shelves
+    var itemShelfNames = ["dark_oak","spruce","birch","jungle","acacia","mangrove","azalea","yucca","morado","rosewood","aspen","maple","river","driftwood","twisted","blossom","bamboo","oak","crimson","warped","ancient"];
+    var itemShelfSlabs = [<item:minecraft:dark_oak_slab>,<item:minecraft:spruce_slab>,<item:minecraft:birch_slab>,<item:minecraft:jungle_slab>,<item:minecraft:acacia_slab>,<item:minecraft:mangrove_slab>,<item:quark:azalea_planks_slab>,<item:atmospheric:yucca_slab>,<item:atmospheric:morado_slab>,<item:atmospheric:rosewood_slab>,<item:atmospheric:aspen_slab>,<item:autumnity:maple_slab>,<item:upgrade_aquatic:river_slab>,<item:upgrade_aquatic:driftwood_slab>,<item:architects_palette:twisted_slab>,<item:quark:blossom_planks_slab>,<item:quark:bamboo_planks_slab>,<item:minecraft:oak_slab>,<item:minecraft:crimson_slab>,<item:minecraft:warped_slab>,<item:quark:ancient_planks_slab>];
+    var itemShelves = [<item:suppsquared:item_shelf_dark_oak>,<item:suppsquared:item_shelf_spruce>,<item:suppsquared:item_shelf_birch>,<item:suppsquared:item_shelf_jungle>,<item:suppsquared:item_shelf_acacia>,<item:suppsquared:item_shelf_mangrove>,<item:suppsquared:quark/item_shelf_azalea>,<item:suppsquared:atmospheric/item_shelf_yucca>,<item:suppsquared:atmospheric/item_shelf_morado>,<item:suppsquared:atmospheric/item_shelf_rosewood>,<item:suppsquared:atmospheric/item_shelf_aspen>,<item:suppsquared:autumnity/item_shelf_maple>,<item:suppsquared:upgrade_aquatic/item_shelf_river>,<item:suppsquared:upgrade_aquatic/item_shelf_driftwood>,<item:suppsquared:architects_palette/item_shelf_twisted>,<item:suppsquared:quark/item_shelf_blossom>,<item:suppsquared:quark/item_shelf_bamboo>,<item:supplementaries:item_shelf>,<item:suppsquared:item_shelf_crimson>,<item:suppsquared:item_shelf_warped>,<item:suppsquared:quark/item_shelf_ancient>,];
+    
+    for index,name in itemShelfNames{
+        craftingTable.remove(itemShelves[index]);
+        craftingTable.addShaped(name + "_item_shelf", itemShelves[index] * 4,[[itemShelfSlabs[index],itemShelfSlabs[index],itemShelfSlabs[index]]]);
+    }
