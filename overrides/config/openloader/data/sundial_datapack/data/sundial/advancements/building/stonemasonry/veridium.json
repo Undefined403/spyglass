@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry",
+	"display":{
+		"icon":{
+			"item":"create:veridium"
+		},
+		"title":{
+			"translate":"Veridium"
+		},
+		"description":{
+			"translate":"Green, soft, smooth rock"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["create:veridium"]
+				  }
+				]
+			}
+		}	
+	}
+}

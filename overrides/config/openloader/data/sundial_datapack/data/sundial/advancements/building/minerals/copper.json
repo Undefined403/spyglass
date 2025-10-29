@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"minecraft:copper_block"
+		},
+		"title":{
+			"translate":"Copper"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:copper_ingot","minecraft:copper_block","create:copper_nugget","minecraft:raw_copper"]
+				  }
+				]
+			}
+		}	
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"parent":"minecraft:story/enchant_item",
+	"display":{
+		"icon":{
+			"item":"quark:ancient_tome"
+		},
+		"title":{
+			"translate":"advancements.quark.overlevel_enchant.title"
+		},
+		"description":{
+			"translate":"advancements.quark.overlevel_enchant.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"overlevel_enchant":{
+			"trigger":"quark:overlevel",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"overlevel_enchant"
+		]
+	]
+}

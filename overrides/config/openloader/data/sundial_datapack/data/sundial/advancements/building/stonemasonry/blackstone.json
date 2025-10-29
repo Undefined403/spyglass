@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry",
+	"display":{
+		"icon":{
+			"item":"minecraft:blackstone"
+		},
+		"title":{
+			"translate":"Blackstone"
+		},
+		"description":{
+			"translate":"Dense rock that feels as thought it's been around a long time."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:blackstone"]
+				  }
+				]
+			}
+		}	
+	}
+}

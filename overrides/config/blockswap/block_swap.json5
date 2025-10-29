@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": true,
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": true,
+	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
+	   See "known_states" folder("generate_all_known_states" must be set to true in this config) to see all known block states available for all blocks available in the registry.
+	   Example:
+	    "state_swapper": [
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_leaves",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"distance": "7",
+	    				"persistent": "true"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_planks",
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_planks",
+	    			}
+	    		}
+	    	}
+	    ]
+	*/
+	"state_swapper": [],
+	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
+	   Example:
+	   	"swapper": {
+	   		"minecraft:coarse_dirt": "minecraft:dirt",
+	   		"minecraft:diamond_block": "minecraft:emerald_block"
+	   	}
+	*/
+	"swapper": {
+		"quark:limestone":"create:limestone",
+		"quark:permafrost":"immersive_weathering:permafrost",
+		"autumnity:maple_leaf_carpet":"immersive_weathering:autumnity/maple_leaf_pile",
+		"autumnity:yellow_maple_leaf_carpet":"immersive_weathering:autumnity/yellow_maple_leaf_pile",
+		"autumnity:orange_maple_leaf_carpet":"immersive_weathering:autumnity/orange_maple_leaf_pile",
+		"autumnity:red_maple_leaf_carpet":"immersive_weathering:autumnity/red_maple_leaf_pile",
+		"atmospheric:rosewood_leaf_carpet":"immersive_weathering:atmospheric/rosewood_leaf_pile",
+		"upgrade_aquatic:river_leaf_carpet":"immersive_weathering:upgrade_aquatic/river_leaf_pile",
+		"everycomp:q/architects_palette/twisted_leaf_carpet":"immersive_weathering:architects_palette/twisted_leaf_pile",
+		"atmospheric:morado_leaf_carpet":"immersive_weathering:atmospheric/morado_leaf_pile",
+		"atmospheric:flowering_morado_leaf_carpet":"immersive_weathering:atmospheric/flowering_morado_leaf_pile",
+		"atmospheric:yucca_leaf_carpet":"immersive_weathering:atmospheric/yucca_leaf_pile",
+		"atmospheric:aspen_leaf_carpet":"immersive_weathering:atmospheric/aspen_leaf_pile"
+	}
+}

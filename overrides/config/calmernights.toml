@@ -1,0 +1,18 @@
+
+["General Settings"]
+	#Maximum number of hostile mobs allowed in the world
+	#Range: 1 ~ 1000
+	max_hostile_mobs = 20
+	#Spawn cooldown in seconds
+	#Range: 1 ~ 600
+	spawn_cooldown = 60
+	#Maximum spawns allowed during the cooldown window
+	#Range: 1 ~ 20
+	spawns_per_window = 3
+	#Enable debug messages in chat
+	debug_mode = false
+
+["Mob Spawn Settings"]
+	#List of mobs and their spawn settings in format 'modid:entity,chance,nightOnly'
+	mobs = ["minecraft:zombie,0.1,true", "minecraft:zombie_villager,0.1,true", "minecraft:skeleton,0.1,true", "minecraft:creeper,0.1,true", "minecraft:spider,0.1,true", "minecraft:enderman,0.1,true", "minecraft:witch,0.1,true", "minecraft:phantom,0.1,true", "minecraft:drowned,0.1,true", "minecraft:husk,0.1,true", "minecraft:stray,0.1,true", "minecraft:slime,0.1,true"]
+

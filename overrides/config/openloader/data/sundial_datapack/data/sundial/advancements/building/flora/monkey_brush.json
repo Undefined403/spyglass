@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/flora/flowers",
+	"display":{
+		"icon":{
+			"item":"atmospheric:scalding_monkey_brush"			
+		},
+		"title":{
+			"translate":"Monkey Brushes"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["atmospheric:warm_monkey_brush","atmospheric:hot_monkey_brush","atmospheric:scalding_monkey_brush"]
+					}
+				]
+			}
+		}
+	}
+}

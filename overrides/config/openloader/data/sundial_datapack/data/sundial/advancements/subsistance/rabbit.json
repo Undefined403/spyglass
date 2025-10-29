@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/kill_an_animal",
+	"display":{
+		"icon":{
+			"item":"minecraft:rabbit_hide"			
+		},
+		"title":{
+			"translate":"Rabbit"
+		},
+		"description":{
+			"translate":"Lean, dark meat. The feet may present good luck."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["minecraft:rabbit","minecraft:rabbit_hide"]
+					}
+				]
+			}
+		}
+	}
+}

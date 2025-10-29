@@ -1,0 +1,29 @@
+{
+	"parent":"minecraft:husbandry/breed_an_animal",
+	"display":{
+		"icon":{
+			"item":"minecraft:poisonous_potato"
+		},
+		"title":{
+			"translate":"advancements.quark.poison_baby.title"
+		},
+		"description":{
+			"translate":"advancements.quark.poison_baby.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"poison_baby":{
+			"trigger":"quark:poison_baby",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"poison_baby"
+		]
+	]
+}

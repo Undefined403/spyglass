@@ -1,0 +1,35 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"quark:blossom_log"
+		},
+		"title":{
+			"translate":"Blossoming Wood"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"quark:blossom_log",
+						"quark:blossom_planks",
+						"quark:stripped_blossom_log",
+						"quark:blossom_wood",
+						"quark:stripped_blossom_wood"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

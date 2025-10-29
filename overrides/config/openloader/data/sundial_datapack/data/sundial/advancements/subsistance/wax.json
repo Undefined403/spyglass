@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/kill_an_animal",
+	"display":{
+		"icon":{
+			"item":"immersive_weathering:tallow"			
+		},
+		"title":{
+			"translate":"Wax"
+		},
+		"description":{
+			"translate":"Could prevent the oxidisation of metals"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["minecraft:honeycomb","immersive_weathering:tallow"]
+					}
+				]
+			}
+		}
+	}
+}

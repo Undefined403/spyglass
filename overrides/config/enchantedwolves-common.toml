@@ -1,0 +1,77 @@
+
+["Enchanted Wolves Config"]
+	#The percent increase in damage that Vulnerable applies
+	#Range: 0.0 ~ 10000.0
+	vulnerableMultiplier = 0.10000000149011612
+	#How much Attack Damage Pack Power grants
+	#Range: 0.0 ~ 10000.0
+	packPowerDamage = 2.0
+	#How much  Pack Power grants
+	#Range: 0.0 ~ 10000.0
+	packPowerSpeed = 0.10000000149011612
+	#The percentage of the triggering attack's damage that cleaving jaw applies to other entities
+	#Range: 0.0 ~ 10000.0
+	cleaveJawDamage = 0.25
+	#How long Spacial Bind should last.
+	#Range: > 0
+	spacialBindDuration = 100
+	#how long frostbites's slow should last
+	#Range: > 0
+	frostbiteDuration = 60
+	#The Regeneration Level Hearty grants.
+	#Range: 0 ~ 255
+	heartyRegenerationLevel = 1
+	#The percentage reduction infernal applies to fire damage.
+	#Range: 0.0 ~ 10000.0
+	infernalDamageReduction = 0.5
+	#how long Infernal should set enemeis on fire for
+	#Range: > 0
+	infernalBurnDuration = 40
+	#The percentage of the triggering attack's damage that heals the wolf.
+	#Range: 0.0 ~ 10000.0
+	leechFangHealing = 0.25
+	#How long the Bountiful effect should last
+	#Range: > 0
+	luckyDuration = 100
+	#What Pack Power level Pack Leader should apply
+	#Range: > 0
+	packPowerStrength = 100
+	#How long Pack Power should last
+	#Range: > 0
+	packPowerDuration = 100
+	#Cooldown Duration of Pack Power
+	#Range: > 0
+	packPowerCooldown = 2400
+	#How much damage Pest Patrol should do.
+	#Range: 0.0 ~ 10000.0
+	pestPatrolDmge = 2.5
+	#should resurrection consume an enchantment level on activation
+	ressurrectConsumesEnch = true
+	#How much damage Smiting Bite should do
+	#Range: 0.0 ~ 10000.0
+	smitingdamage = 2.5
+	#Swiftness' speed multiplier
+	#Range: 0.0 ~ 10000.0
+	swiftnessSpeed = 0.10000000149011612
+	#The Strength level granted by Tag Team
+	#Range: 0 ~ 255
+	tagTeamPower = 1
+	#The duration of the strength buff granted by Tag Team
+	#Range: > 0
+	tagTeamDuration = 100
+	#The base percent chance for Thundermaw to apply
+	#Range: 0.0 ~ 10000.0
+	thunderBaseChance = 0.30000001192092896
+	#The per-enchant-level multiiplier to thundermaw's chance
+	#Range: 0.0 ~ 10000.0
+	thunderMawLvlMod = 0.25
+	#The damage boost from Trauma enchant
+	#Range: 0.0 ~ 10000.0
+	traumaDamage = 1.0
+	#How long weakening' maw's weakness effect should .ast
+	#Range: > 0
+	weakMawDuration = 60
+	#The strength of Weakening Maw's weakness effect
+	#Range: > 0
+	weakMawPower = 3
+

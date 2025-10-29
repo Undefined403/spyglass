@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/root",
+	"display":{
+		"icon":{
+			"item":"minecraft:oak_log"
+		},
+		"title":{
+			"translate":"Woodwork"
+		},
+		"description":{
+			"translate":"There's more wood than you think..."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":false
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"tag": "minecraft:logs"
+				  }
+				]
+			}
+		}	
+	}
+}

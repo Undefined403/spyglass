@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"dustrial_decor:bolted_industrial_iron_block"
+		},
+		"title":{
+			"translate":"Asurine Steel"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["dustrial_decor:industrial_iron_billet"]
+				  }
+				]
+			}
+		}	
+	}
+}

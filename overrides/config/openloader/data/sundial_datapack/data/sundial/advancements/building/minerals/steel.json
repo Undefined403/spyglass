@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"alloyed:steel_block"
+		},
+		"title":{
+			"translate":"Steel"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["alloyed:steel_ingot","alloyed:steel_block","alloyed:steel_nugget"]
+				  }
+				]
+			}
+		}	
+	}
+}

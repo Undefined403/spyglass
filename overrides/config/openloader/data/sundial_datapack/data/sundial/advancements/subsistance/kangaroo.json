@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/kill_an_animal",
+	"display":{
+		"icon":{
+			"item":"alexsmobs:kangaroo_hide"			
+		},
+		"title":{
+			"translate":"Kangaroo"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["alexsmobs:kangaroo_hide","alexsmobs:kangaroo_meat"]
+					}
+				]
+			}
+		}
+	}
+}

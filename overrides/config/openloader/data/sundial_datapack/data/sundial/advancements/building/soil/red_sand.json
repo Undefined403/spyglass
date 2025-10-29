@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/soil/sands",
+	"display":{
+		"icon":{
+			"item":"minecraft:red_sand"
+		},
+		"title":{
+			"translate":"Sand"
+		},
+		"description":{
+			"translate":"It's red sand"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:red_sand"]
+				  }
+				]
+			}
+		}	
+	}
+}

@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"create:brass_block"
+		},
+		"title":{
+			"translate":"Brass"
+		},
+		"description":{
+			"translate":"Gold with purpose"
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["create:brass_ingot","create:brass_nugget","create:brass_block"]
+				  }
+				]
+			}
+		}	
+	}
+}

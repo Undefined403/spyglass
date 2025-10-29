@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={OnGround:1b}] at @s run function atp:autoplant/saplings

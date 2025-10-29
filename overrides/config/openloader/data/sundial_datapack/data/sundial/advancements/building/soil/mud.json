@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/soil",
+	"display":{
+		"icon":{
+			"item":"minecraft:mud"
+		},
+		"title":{
+			"translate":"Mud"
+		},
+		"description":{
+			"translate":"Getting your hands Dirtier"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:mud"]
+				  }
+				]
+			}
+		}
+	}
+}

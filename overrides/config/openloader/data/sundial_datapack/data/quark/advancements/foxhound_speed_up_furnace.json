@@ -1,0 +1,29 @@
+{
+	"parent":"quark:tame_foxhound",
+	"display":{
+		"icon":{
+			"item":"minecraft:furnace"
+		},
+		"title":{
+			"translate":"advancements.quark.foxhound_speed_up_furnace.title"
+		},
+		"description":{
+			"translate":"advancements.quark.foxhound_speed_up_furnace.description"
+		},
+		"frame":"goal",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"foxhound_speed_up_furnace":{
+			"trigger":"quark:foxhound_furnace",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"foxhound_speed_up_furnace"
+		]
+	]
+}

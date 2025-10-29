@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"create:experience_nugget"
+		},
+		"title":{
+			"translate":"Solid Experience"
+		},
+		"description":{
+			"translate":"Who knew that was possible?"
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["create:experience_nugget","create_sa:heap_of_experience"]
+				  }
+				]
+			}
+		}	
+	}
+}

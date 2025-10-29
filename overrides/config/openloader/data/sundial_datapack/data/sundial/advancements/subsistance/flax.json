@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/flora",
+	"display":{
+		"icon":{
+			"item":"supplementaries:flax"			
+		},
+		"title":{
+			"translate":"Flax"
+		},
+		"description":{
+			"translate":"Sturdy fibres with applications in rope and rudimentary storage."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["supplementaries:flax"]
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/flora",
+	"display":{
+		"icon":{
+			"item":"nethersdelight:propelplant_cane"			
+		},
+		"title":{
+			"translate":"Propelplant"
+		},
+		"description":{
+			"translate":"Careful, they're explosive"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["nethersdelight:propelplant_cane"]
+					}
+				]
+			}
+		}
+	}
+}

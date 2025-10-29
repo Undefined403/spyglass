@@ -1,0 +1,19 @@
+{
+	"display": {
+	  "icon": {
+		"item": "minecraft:scaffolding"
+	  },
+	  "title": "Construction",
+	  "description": "Blocks for Building",
+	  "background": "minecraft:textures/gui/advancements/backgrounds/construction.png",
+	  "show_toast": false,
+	  "announce_to_chat": false,
+	  "hidden": false
+	},
+	"criteria": {
+	  "requirement": {
+		"trigger": "minecraft:inventory_changed"
+	  }
+	}
+  }
+  

@@ -1,0 +1,29 @@
+{	"parent":"minecraft:husbandry/plant_seed",
+	"display":{
+		"icon":{
+			"item":"upgrade_aquatic:mulberry"			
+		},
+		"title":{
+			"translate":"Mulberries"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["upgrade_aquatic:mulberry"]
+					}
+				]
+			}
+		}
+	}
+}

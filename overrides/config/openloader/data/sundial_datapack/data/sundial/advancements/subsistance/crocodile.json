@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/kill_an_animal",
+	"display":{
+		"icon":{
+			"item":"alexsmobs:crocodile_scute"			
+		},
+		"title":{
+			"translate":"Crocodiles"
+		},
+		"description":{
+			"translate":"You call that a knife?"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["alexsmobs:crocodile_scute","alexsmobs:crocodile_egg"]
+					}
+				]
+			}
+		}
+	}
+}

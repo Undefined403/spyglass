@@ -1,0 +1,35 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"quark:azalea_log"
+		},
+		"title":{
+			"translate":"Azalea Wood"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"quark:azalea_log",
+						"quark:azalea_planks",
+						"quark:stripped_azalea_log",
+						"quark:azalea_wood",
+						"quark:stripped_azalea_wood"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

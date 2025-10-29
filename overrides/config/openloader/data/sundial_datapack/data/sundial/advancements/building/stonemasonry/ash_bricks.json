@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry",
+	"display":{
+		"icon":{
+			"item":"supplementaries:ash_brick"
+		},
+		"title":{
+			"translate":"Ash Bricks"
+		},
+		"description":{
+			"translate":"Powdery and flaky"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["supplementaries:ash"]
+				  }
+				]
+			}
+		}	
+	}
+}

@@ -1,0 +1,29 @@
+{	"parent":"minecraft:husbandry/plant_seed",
+	"display":{
+		"icon":{
+			"item":"farmersdelight:rice"			
+		},
+		"title":{
+			"translate":"Rice"
+		},
+		"description":{
+			"translate":"Little white, elongated grains."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["farmersdelight:rice"]
+					}
+				]
+			}
+		}
+	}
+}

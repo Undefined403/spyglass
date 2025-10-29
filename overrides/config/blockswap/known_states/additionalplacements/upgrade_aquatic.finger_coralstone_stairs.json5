@@ -1,0 +1,3684 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "true",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"powered": "false",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:upgrade_aquatic.finger_coralstone_stairs"
+	}
+]

@@ -1,0 +1,29 @@
+{
+	"parent":"minecraft:husbandry/breed_an_animal",
+	"display":{
+		"icon":{
+			"item":"quark:egg_parrot_red_blue"
+		},
+		"title":{
+			"translate":"advancements.quark.throw_parrot_egg.title"
+		},
+		"description":{
+			"translate":"advancements.quark.throw_parrot_egg.description"
+		},
+		"frame":"goal",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"throw_parrot_egg":{
+			"trigger":"quark:throw_parrot_egg",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"throw_parrot_egg"
+		]
+	]
+}

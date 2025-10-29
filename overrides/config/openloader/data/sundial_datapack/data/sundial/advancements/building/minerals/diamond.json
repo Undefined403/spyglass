@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"minecraft:diamond_block"
+		},
+		"title":{
+			"translate":"Diamonds!"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:diamond","minecraft:diamond_block"]
+				  }
+				]
+			}
+		}	
+	}
+}

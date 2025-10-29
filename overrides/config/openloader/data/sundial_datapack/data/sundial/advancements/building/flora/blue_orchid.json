@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/flora/flowers",
+	"display":{
+		"icon":{
+			"item":"minecraft:blue_orchid"			
+		},
+		"title":{
+			"translate":"Blue Orchid"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["minecraft:blue_orchid"]
+					}
+				]
+			}
+		}
+	}
+}

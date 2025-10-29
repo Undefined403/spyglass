@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"create:zinc_block"
+		},
+		"title":{
+			"translate":"Zinc"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["create:zinc_ingot","create:zinc_nugget","create:zinc_block","create:raw_zinc"]
+				  }
+				]
+			}
+		}	
+	}
+}

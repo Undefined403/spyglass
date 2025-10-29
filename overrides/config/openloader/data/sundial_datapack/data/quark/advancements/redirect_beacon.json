@@ -1,0 +1,29 @@
+{
+	"parent":"minecraft:nether/create_beacon",
+	"display":{
+		"icon":{
+			"item":"minecraft:beacon"
+		},
+		"title":{
+			"translate":"advancements.quark.redirect_beacon.title"
+		},
+		"description":{
+			"translate":"advancements.quark.redirect_beacon.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"redirect_beacon":{
+			"trigger":"quark:redirect_beacon",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"redirect_beacon"
+		]
+	]
+}

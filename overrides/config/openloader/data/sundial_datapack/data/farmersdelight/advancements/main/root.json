@@ -1,0 +1,30 @@
+{ "parent":"minecraft:husbandry/root",
+  "criteria": {
+    "seeds": {
+      "conditions": {},
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/bricks.png",
+    "description": {
+      "translate": "Skillet Issue"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "farmersdelight:cooking_pot"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "Cooking!"
+    }
+  },
+  "requirements": [
+    [
+      "seeds",
+      "consumed_item"
+    ]
+  ]
+}

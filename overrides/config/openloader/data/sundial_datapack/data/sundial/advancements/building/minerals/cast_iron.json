@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"dustrial_decor:cast_iron_block"
+		},
+		"title":{
+			"translate":"Cast Iron"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["createdeco:cast_iron_ingot","createdeco:cast_iron_nugget","createdeco:cast_iron_block"]
+				  }
+				]
+			}
+		}	
+	}
+}

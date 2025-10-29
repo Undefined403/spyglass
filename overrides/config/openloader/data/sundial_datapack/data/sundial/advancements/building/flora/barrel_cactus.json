@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/flora",
+	"display":{
+		"icon":{
+			"item":"atmospheric:barrel_cactus"			
+		},
+		"title":{
+			"translate":"Barrel Cactus"
+		},
+		"description":{
+			"translate":"Maybe it could be edible if prepared correctly."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["atmospheric:barrel_cactus"]
+					}
+				]
+			}
+		}
+	}
+}

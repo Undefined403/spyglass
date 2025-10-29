@@ -1,0 +1,24 @@
+
+[Units]
+	#Hostile Mobs that Units are not allowed to target whatsoever are put here.
+	#Putting mobs that grief such as Creepers here is recommended
+	#Format must be like 'examplemod:entity'. Example: "minecraft:zombie" if you want a specific entity, or just "minecraft" for a whole mod
+	#You can use the /summon command to scroll through and find the IDs for mobs you want!
+	#Requires game restart
+	unitTargetList = ["minecraft:creeper"]
+	#Should the game treat the Unit targeting list as a Whitelist or a Blacklist?
+	#'True' for Whitelist, 'False' for Blacklist
+	#Requires game restart
+	unitTargetList_whiteorblack = false
+
+	[Units.Angerer]
+		#Hostile Mobs put here will not become automatically-aggro towards Angerers.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie" if you want a specific entity, or just "minecraft" for a whole mod
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Requires game restart
+		mobAngererList = ["minecraft:creeper"]
+		#Should the game treat the Angerer mob list as a Whitelist or a Blacklist?
+		#'True' for Whitelist, 'False' for Blacklist
+		#Requires game restart
+		mobAngererlist_whiteorblack = false
+

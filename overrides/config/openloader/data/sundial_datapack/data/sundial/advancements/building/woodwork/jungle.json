@@ -1,0 +1,35 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"minecraft:jungle_log"
+		},
+		"title":{
+			"translate":"Jungle Wood"
+		},
+		"description":{
+			"translate":"Into the Jungle"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"minecraft:jungle_log",
+						"minecraft:jungle_planks",
+						"minecraft:stripped_jungle_log",
+						"minecraft:jungle_wood",
+						"minecraft:stripped_jungle_wood"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

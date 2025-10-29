@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/kill_an_animal",
+	"display":{
+		"icon":{
+			"item":"alexsmobs:roadrunner_feather"			
+		},
+		"title":{
+			"translate":"Roadrunner"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["alexsmobs:roadrunner_feather"]
+					}
+				]
+			}
+		}
+	}
+}

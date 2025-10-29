@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/pumpkin",
+	"display":{
+		"icon":{
+			"item":"autumnity:large_pumpkin_slice"			
+		},
+		"title":{
+			"translate":"BIG Pumpkins"
+		},
+		"description":{
+			"translate":"Smooth skin, with many seeds on the marshy insides."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["autumnity:large_pumpkin_slice"]
+					}
+				]
+			}
+		}
+	}
+}

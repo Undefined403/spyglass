@@ -1,0 +1,5 @@
+
+[Rendering]
+	#Show particles around dragons
+	show_particles = true
+

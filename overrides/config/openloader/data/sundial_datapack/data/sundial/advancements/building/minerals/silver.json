@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"wandering_bags:silver_ingot"
+		},
+		"title":{
+			"translate":"Silver"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["wandering_bags:silver_ingot","wandering_bags:hammer_from_farlands","wandering_bags:bucket_from_unknown","wandering_bags:dagger_of_traitor"]
+				  }
+				]
+			}
+		}	
+	}
+}

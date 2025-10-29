@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry",
+	"display":{
+		"icon":{
+			"item":"minecraft:obsidian"
+		},
+		"title":{
+			"translate":"Obsidian"
+		},
+		"description":{
+			"translate":"Hard, sharp, volcanic rock. Formed by water running over lava."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:obsidian","minecraft:crying_obsidian"]
+				  }
+				]
+			}
+		}	
+	}
+}

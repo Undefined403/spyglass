@@ -1,0 +1,29 @@
+{	"parent":"minecraft:husbandry/plant_seed",
+	"display":{
+		"icon":{
+			"item":"minecraft:sweet_berries"
+		},
+		"title":{
+			"translate":"Sweet Berries"
+		},
+		"description":{
+			"translate":"Small Berries found in the Wilderness"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["minecraft:sweet_berries"]
+					}
+				]
+			}
+		}
+	}
+}

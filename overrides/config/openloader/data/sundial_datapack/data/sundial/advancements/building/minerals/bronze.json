@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"alloyed:bronze_block"
+		},
+		"title":{
+			"translate":"Bronze"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["alloyed:bronze_ingot","alloyed:bronze_nugget","alloyed:bronze_block"]
+				  }
+				]
+			}
+		}	
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"parent":"sundial:building/stonemasonry",
+	"display":{
+		"icon":{
+			"item":"minecraft:snowball"
+		},
+		"title":{
+			"translate":"Snow"
+		},
+		"description":{
+			"translate":"Cold, hard and wet"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:snowball","minecraft:powder_snow_bucket","minecraft:snow","minecraft:snow_block","architects_palette:coarse_snow"]
+				  }
+				]
+			}
+		}	
+	}
+}

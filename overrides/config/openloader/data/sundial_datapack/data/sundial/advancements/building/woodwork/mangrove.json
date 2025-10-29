@@ -1,0 +1,35 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"minecraft:mangrove_log"
+		},
+		"title":{
+			"translate":"Mangrove Wood"
+		},
+		"description":{
+			"translate":"A Grove of Men?"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"minecraft:mangrove_log",
+						"minecraft:mangrove_planks",
+						"minecraft:stripped_mangrove_log",
+						"minecraft:mangrove_wood",
+						"minecraft:stripped_mangrove_wood"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

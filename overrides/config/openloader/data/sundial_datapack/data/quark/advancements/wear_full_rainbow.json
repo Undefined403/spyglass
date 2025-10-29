@@ -1,0 +1,32 @@
+{
+	"parent":"quark:apply_color_rune",
+	"display":{
+		"icon":{
+			"item":"quark:rainbow_rune"
+		},
+		"title":{
+			"translate":"advancements.quark.wear_full_rainbow.title"
+		},
+		"description":{
+			"translate":"advancements.quark.wear_full_rainbow.description"
+		},
+		"frame":"challenge",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+	"rewards":{
+		"experience":100
+	},
+	"criteria":{
+		"wear_full_rainbow":{
+			"trigger":"quark:full_rainbow",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"wear_full_rainbow"
+		]
+	]
+}

@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry/bricks",
+	"display":{
+		"icon":{
+			"item":"createdeco:worn_brick"
+		},
+		"title":{
+			"translate":"Worn Bricks"
+		},
+		"description":{
+			"translate":"Chalky and scuffed all over."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["createdeco:worn_brick"]
+				  }
+				]
+			}
+		}	
+	}
+}

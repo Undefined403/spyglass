@@ -1,0 +1,5 @@
+
+[infinite_abyss_config]
+	#change to false to prevent the make sure you downloaded this file from a safe site notification upon first joining a world
+	show_copyright_notification = true
+

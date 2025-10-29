@@ -1,0 +1,36 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"atmospheric:aspen_log"
+		},
+		"title":{
+			"translate":"Aspen Wood"
+		},
+		"description":{
+			"translate":"Light wood"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+					{
+						"items": [
+							"atmospheric:aspen_log",
+							"atmospheric:aspen_planks",
+							"atmospheric:stripped_aspen_log",
+							"atmospheric:aspen_wood",
+							"atmospheric:stripped_aspen_wood",
+							"atmospheric:watchful_aspen_log"
+						]
+					}
+				]
+			}
+		}	
+	}
+}

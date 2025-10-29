@@ -1,0 +1,35 @@
+{
+	"parent":"minecraft:adventure/root",
+	"display":{
+		"icon":{
+			"item":"quark:bottled_cloud"
+		},
+		"title":{
+			"translate":"advancements.quark.get_bottled_cloud.title"
+		},
+		"description":{
+			"translate":"advancements.quark.get_bottled_cloud.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"get_bottled_cloud":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[{
+					"items":[
+						"quark:bottled_cloud"
+					]
+				}]
+			}
+		}
+	},
+	"requirements":[
+		[
+			"get_bottled_cloud"
+		]
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"parent":"minecraft:nether/obtain_blaze_rod",
+	"display":{
+		"icon":{
+			"item":"quark:ender_watcher"
+		},
+		"title":{
+			"translate":"advancements.quark.watcher_center.title"
+		},
+		"description":{
+			"translate":"advancements.quark.watcher_center.description"
+		},
+		"frame":"goal",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"watcher_center":{
+			"trigger":"quark:watcher_center",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"watcher_center"
+		]
+	]
+}

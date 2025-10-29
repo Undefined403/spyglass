@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/soil/sands",
+	"display":{
+		"icon":{
+			"item":"minecraft:soul_sand"
+		},
+		"title":{
+			"translate":"Soul Sand"
+		},
+		"description":{
+			"translate":"If you listen closely, some say you can hear muffeled screams from it."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:soul_sand","minecraft:soul_soil"]
+				  }
+				]
+			}
+		}	
+	}
+}

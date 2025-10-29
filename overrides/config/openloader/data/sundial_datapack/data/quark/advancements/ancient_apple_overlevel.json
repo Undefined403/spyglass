@@ -1,0 +1,32 @@
+{
+	"parent":"sundial:building/woodwork/ancientwood",
+	"display":{
+		"icon":{
+			"item":"quark:ancient_fruit"
+		},
+		"title":{
+			"translate":"advancements.quark.ancient_apple_overlevel.title"
+		},
+		"description":{
+			"translate":"advancements.quark.ancient_apple_overlevel.description"
+		},
+		"frame":"challenge",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+	"rewards":{
+		"experience":100
+	},
+	"criteria":{
+		"ancient_apple_overlevel":{
+			"trigger":"quark:ancient_fruit_overlevel",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"ancient_apple_overlevel"
+		]
+	]
+}

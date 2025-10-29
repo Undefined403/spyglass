@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/minerals",
+	"display":{
+		"icon":{
+			"item":"minecraft:redstone_block"
+		},
+		"title":{
+			"translate":"Redstone"
+		},
+		"description":{
+			"translate":"This substance has a warm red glow when put under stress by a lever or otherwise."
+		},
+		"frame":"goal",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:redstone","minecraft:redstone_block"]
+				  }
+				]
+			}
+		}	
+	}
+}

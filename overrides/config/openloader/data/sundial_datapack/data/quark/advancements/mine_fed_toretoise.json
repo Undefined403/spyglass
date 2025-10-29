@@ -1,0 +1,29 @@
+{
+	"parent":"quark:mine_toretoise",
+	"display":{
+		"icon":{
+			"item":"minecraft:glow_berries"
+		},
+		"title":{
+			"translate":"advancements.quark.mine_fed_toretoise.title"
+		},
+		"description":{
+			"translate":"advancements.quark.mine_fed_toretoise.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"mine_fed_toretoise":{
+			"trigger":"quark:mine_fed_toretoise",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"mine_fed_toretoise"
+		]
+	]
+}

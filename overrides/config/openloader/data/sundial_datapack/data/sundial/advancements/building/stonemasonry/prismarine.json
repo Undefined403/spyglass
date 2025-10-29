@@ -1,0 +1,37 @@
+{	"parent":"sundial:building/stonemasonry/bricks",
+	"display":{
+		"icon":{
+			"item":"immersive_weathering:prismarine_brick"
+		},
+		"title":{
+			"translate":"Prismarine"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"immersive_weathering:prismarine_brick",
+						"minecraft:prismarine_crystals",
+						"minecraft:prismarine_bricks",
+						"minecraft:dark_prismarine",
+						"minecraft:prismarine_shard",
+						"immersive_weathering:cracked_prismarine_bricks",
+						"immersive_weathering:chiseled_prismarine_bricks"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

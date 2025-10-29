@@ -1,0 +1,29 @@
+{
+  "parent": "sundial:building/woodwork/acacia",
+  "criteria": {
+    "carve_totem": {
+      "conditions": {},
+      "trigger": "architects_palette:carve_totem"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "architects_palette.advancement.totem_carving.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "architects_palette:placid_acacia_totem"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "architects_palette.advancement.totem_carving"
+    }
+  },
+  "requirements": [
+    [
+      "carve_totem"
+    ]
+  ]
+}

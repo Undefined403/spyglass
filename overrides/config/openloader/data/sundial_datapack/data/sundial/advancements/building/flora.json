@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/root",
+	"display":{
+		"icon":{
+			"item":"minecraft:rose_bush"
+		},
+		"title":{
+			"translate":"Flora"
+		},
+		"description":{
+			"translate":"A world of color"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":false
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"tags": ["minecraft:flowers","createaddition:plants"]
+				  }
+				]
+			}
+		}	
+	}
+}

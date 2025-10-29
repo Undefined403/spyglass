@@ -1,0 +1,28 @@
+{
+	"parent":"sundial:subsistance/passion",
+	"display":{
+		"icon":{
+			"item":"atmospheric:passionfruit"
+		},
+		"title":{
+			"translate":"advancements.atmospheric.husbandry.spit_passionfruit.title"
+		},
+		"description":{
+			"translate":"advancements.atmospheric.husbandry.spit_passionfruit.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"spit_passionfruit":{
+			"trigger":"atmospheric:spit_passionfruit"
+		}
+	},
+	"requirements":[
+		[
+			"spit_passionfruit"
+		]
+	]
+}

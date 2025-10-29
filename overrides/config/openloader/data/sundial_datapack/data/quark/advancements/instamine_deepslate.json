@@ -1,0 +1,32 @@
+{
+	"parent":"quark:overlevel_enchant",
+	"display":{
+		"icon":{
+			"item":"minecraft:deepslate"
+		},
+		"title":{
+			"translate":"advancements.quark.instamine_deepslate.title"
+		},
+		"description":{
+			"translate":"advancements.quark.instamine_deepslate.description"
+		},
+		"frame":"challenge",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"rewards":{
+		"experience":100
+	},
+	"criteria":{
+		"instamine_deepslate":{
+			"trigger":"quark:instamine_deepslate",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"instamine_deepslate"
+		]
+	]
+}

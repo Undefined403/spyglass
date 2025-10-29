@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/kill_an_animal",
+	"display":{
+		"icon":{
+			"item":"autumnity:chiseled_snail_shell_bricks"			
+		},
+		"title":{
+			"translate":"Snail Shell"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["autumnity:chiseled_snail_shell_bricks","autumnity:snail_shell_piece"]
+					}
+				]
+			}
+		}
+	}
+}

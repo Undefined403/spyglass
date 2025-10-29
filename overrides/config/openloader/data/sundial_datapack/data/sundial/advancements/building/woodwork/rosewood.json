@@ -1,0 +1,35 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"atmospheric:rosewood_log"
+		},
+		"title":{
+			"translate":"Rosewood"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"atmospheric:rosewood_log",
+						"atmospheric:rosewood_planks",
+						"atmospheric:stripped_rosewood_log",
+						"atmospheric:rosewood",
+						"atmospheric:stripped_rosewood"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

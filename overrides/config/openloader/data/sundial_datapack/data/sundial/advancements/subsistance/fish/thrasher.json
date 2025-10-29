@@ -1,0 +1,29 @@
+{	"parent":"sundial:subsistance/fish",
+	"display":{
+		"icon":{
+			"item":"upgrade_aquatic:thrasher_tooth"			
+		},
+		"title":{
+			"translate":"thrasher_tooth"
+		},
+		"description":{
+			"translate":"Almost as sharp as steel, if only it didn't have chips taken out from previous battles."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["upgrade_aquatic:thrasher_tooth"]
+					}
+				]
+			}
+		}
+	}
+}

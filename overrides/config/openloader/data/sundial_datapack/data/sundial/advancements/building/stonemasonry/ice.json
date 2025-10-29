@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry",
+	"display":{
+		"icon":{
+			"item":"minecraft:ice"
+		},
+		"title":{
+			"translate":"Ice"
+		},
+		"description":{
+			"translate":"Cold, hard and wet"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["minecraft:ice","minecraft:packed_ice","minecraft:blue_ice","quark:ice_cube"]
+				  }
+				]
+			}
+		}	
+	}
+}

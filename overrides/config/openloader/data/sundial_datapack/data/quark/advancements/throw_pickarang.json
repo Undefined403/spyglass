@@ -1,0 +1,32 @@
+{
+	"parent":"minecraft:story/mine_diamond",
+	"display":{
+		"icon":{
+			"item":"quark:pickarang",
+			"nbt":"{
+				Damage:0
+			}"
+		},
+		"title":{
+			"translate":"advancements.quark.throw_pickarang.title"
+		},
+		"description":{
+			"translate":"advancements.quark.throw_pickarang.description"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"throw_pickarang":{
+			"trigger":"quark:throw_pickarang",
+			"conditions":{}
+		}
+	},
+	"requirements":[
+		[
+			"throw_pickarang"
+		]
+	]
+}

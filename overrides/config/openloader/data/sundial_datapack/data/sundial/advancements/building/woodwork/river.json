@@ -1,0 +1,35 @@
+{	"parent":"sundial:building/woodwork",
+	"display":{
+		"icon":{
+			"item":"upgrade_aquatic:river_log"
+		},
+		"title":{
+			"translate":"River Wood"
+		},
+		"description":{
+			"translate":""
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+						"upgrade_aquatic:river_log",
+						"upgrade_aquatic:river_planks",
+						"upgrade_aquatic:stripped_river_log",
+						"upgrade_aquatic:river_wood",
+						"upgrade_aquatic:stripped_river_wood"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

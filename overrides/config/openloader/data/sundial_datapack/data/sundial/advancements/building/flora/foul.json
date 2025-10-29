@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/flora",
+	"display":{
+		"icon":{
+			"item":"autumnity:foul_berries"			
+		},
+		"title":{
+			"translate":"Foul Berries"
+		},
+		"description":{
+			"translate":"Bitter and gritty, with a large pip."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["autumnity:foul_berries"]
+					}
+				]
+			}
+		}
+	}
+}

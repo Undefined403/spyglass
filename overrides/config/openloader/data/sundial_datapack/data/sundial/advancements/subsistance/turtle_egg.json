@@ -1,0 +1,29 @@
+{	"parent":"minecraft:adventure/breed_an_animal",
+	"display":{
+		"icon":{
+			"item":"minecraft:turtle_egg"		
+		},
+		"title":{
+			"translate":"Turtle Eggs"
+		},
+		"description":{
+			"translate":"Fragile shells, protect well to see them hatch. If you see a baby turtle grow you might just get a scute."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"items": ["minecraft:scute","minecraft:turtle_egg"]
+					}
+				]
+			}
+		}
+	}
+}

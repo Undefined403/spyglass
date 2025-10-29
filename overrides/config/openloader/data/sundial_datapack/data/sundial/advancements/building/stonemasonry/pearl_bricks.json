@@ -1,0 +1,29 @@
+{	"parent":"sundial:building/stonemasonry/bricks",
+	"display":{
+		"icon":{
+			"item":"createdeco:pearl_brick"
+		},
+		"title":{
+			"translate":"Pearl Bricks"
+		},
+		"description":{
+			"translate":"Chalky and easily dulled."
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":true
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": ["createdeco:pearl_brick"]
+				  }
+				]
+			}
+		}	
+	}
+}

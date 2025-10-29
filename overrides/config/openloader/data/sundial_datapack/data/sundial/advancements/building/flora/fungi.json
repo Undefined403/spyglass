@@ -1,0 +1,38 @@
+{	"parent":"sundial:building/flora",
+	"display":{
+		"icon":{
+			"item":"farmersdelight:red_mushroom_colony"
+		},
+		"title":{
+			"translate":"Fungi"
+		},
+		"description":{
+			"translate":"You are a Fungi"
+		},
+		"frame":"task",
+		"show_toast":false,
+		"announce_to_chat":false,
+		"hidden":false
+	},
+		"criteria": {
+			"requirement": {
+			  "trigger": "minecraft:inventory_changed",
+			  "conditions": {
+				"items": [
+				  {
+					"items": [
+					"minecraft:red_mushroom",
+					"minecraft:brown_mushroom",
+					"minecraft:crimson_fungus",
+					"minecraft:warped_fungus",
+					"farmersdelight:red_mushroom_colony",
+					"farmersdelight:brown_mushroom_colony",
+					"nethersdelight:crimson_fungus_colony",
+					"nethersdelight:warped_fungus_colony"
+					]
+				  }
+				]
+			}
+		}	
+	}
+}

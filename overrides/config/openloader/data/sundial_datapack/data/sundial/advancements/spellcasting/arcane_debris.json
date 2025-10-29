@@ -1,0 +1,35 @@
+{
+	"parent":"irons_spellbooks:irons_spellbooks/root",
+	"display":{
+		"icon":{
+			"item":"irons_spellbooks:arcane_debris"
+		},
+		"title":{
+			"translate":"Arcane Debris"
+		},
+		"description":{
+			"translate":"Power still radiates from this forgotten material"
+		},
+		"frame":"task",
+		"show_toast":true,
+		"announce_to_chat":true,
+		"hidden":false
+	},
+	"criteria":{
+		"ancient_debris":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[{
+					"items":[
+						"irons_spellbooks:arcane_debris"
+					]
+				}]
+			}
+		}
+	},
+	"requirements":[
+		[
+			"ancient_debris"
+		]
+	]
+}
